@@ -11,8 +11,8 @@ from zyte_common_items import (
     Brand,
     Image,
     JobPosting,
-    Product,
     ProbabilityMetadata,
+    Product,
     ProductFromList,
     ProductList,
 )
